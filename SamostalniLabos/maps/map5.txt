@@ -1,0 +1,7 @@
+c9 s8 h7 w12
+s13 w4 c10 i11 h
+c10 i8 h13 i4 w9 c6
+s5 w5 s15 c11 h7 i9 h13
+s12 c4 h10 w14 n0 w7
+c16 n0 i14 c3 s11
+s3 w10 s9 c7
